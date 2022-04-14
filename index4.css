@@ -1,0 +1,156 @@
+*{
+    margin:0;
+    padding:0;
+}
+#first {
+    background-color:lightblue;
+    box-sizing: 0em;
+    padding-top:5em
+    
+    
+}
+#first-div  {
+    display: block;
+    text-align: center;
+    
+}
+#first-div h1{
+    color: white;
+    font-size:250%;
+}
+
+#first-div h5{
+    color:black;
+    padding-top: 2em;
+}
+
+section {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+#image-div {
+    width: 30%;
+    margin: 1em;
+}
+#content-div{
+    width: 80%;
+    text-align:center;
+    margin-right: 90px;
+}
+section h3{
+    color: white;
+}
+#second-div{
+    display: block;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    align-items: center;
+    margin-right: 2em;
+    margin-left: 2em;
+    text-align: center;
+}
+#second-div h2 {
+    color: lightblue;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#second-div h3 {
+    color: lightblue;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#second-div hp {
+    color: lightblue;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#worktool {
+    color: lightblue;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#third-div{
+    display: block;
+    background-color:lightblue;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    text-align: center;
+
+}
+#third-div h1{
+    color: blue;
+}
+#third-div p{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+ ul li{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.detail-div {
+    display: block;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: lightskyblue;
+}
+.label-name {
+    color:black;
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+.label-email {
+    color:black;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.radio-checkbox{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.radio-div {
+    margin-right: 22em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.radio-div ul{
+    list-style-type: none;
+}
+.checkbox-div {
+    margin-left: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.checkbox-div ul{
+    list-style-type: none;
+}
+.comment-submit {
+    display: block;
+    text-align: center;
+}
+.text-area{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+.comment-submit input{
+    color: blue;
+    
+}
+#fifth-div {
+    background-color:lightblue;
+    text-align: center;
+    padding-top:3em
+}
+#copyright{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
